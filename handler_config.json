@@ -1,0 +1,38 @@
+{
+    "secret_file_location": "/Users/Dariq/Downloads/client_secret.json",
+    "storage_location": "gmail.storage",
+    "actions":[
+      {
+        "action": "delete-from",
+        "value": "kd@kochdavis.com"
+      },
+      {
+        "action": "delete-from",
+        "value": "no-reply@familybase.vzw.com"
+      },
+      {
+        "action": "delete-from",
+        "value": "no-reply@prop.trulia.com"
+      },
+      {
+        "action": "delete-from",
+        "value": "no-reply@lyftmail.com"
+      },
+      {
+        "action": "delete-from",
+        "value": "lifesbestwork@uhg.com"
+      },
+      {
+        "action": "delete-from",
+        "value": "newsletter@theladders.com"
+      },
+      {
+        "action": "delete-from",
+        "value": "MySQL-NYC-announce@meetup.com"
+      },
+      {
+        "action": "delete-from",
+        "value": "dave@johnsonjobs.com"
+      }
+    ]
+}
